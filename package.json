@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer_scrapper",
+  "version": "1.0.0",
+  "description": "Web scrapper using npm puppeteer",
+  "main": "medum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul41/mediumpost.git"
+  },
+  "keywords": [
+    "amazon"
+  ],
+  "author": "Sourav Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paul41/mediumpost/issues"
+  },
+  "homepage": "https://github.com/paul41/mediumpost#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
